@@ -37,4 +37,4 @@ gem "webrick", "~> 1.9"
 gem 'csv'
 gem 'logger'
 gem 'base64'
-gem "github-pages", group: :jekyll_plugins
+gem 'jekyll-remote-theme'
